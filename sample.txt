@@ -1,0 +1,10 @@
+object
+class
+instance
+def
+self
+inheritance
+composition
+attribute
+is-a
+has-a
